@@ -3,7 +3,7 @@
 
 
 ## Build Setup
-
+tips:当前node版本号v14.0.0 貌似太高的版本号安装可能会报错
 ``` bash
 # install dependencies
 npm install
